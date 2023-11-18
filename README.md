@@ -39,3 +39,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishicds&show_icons=true&locale=en" alt="rishicds" /></p>
 
+[![rishicds's GitHub | Stats](https://stats.quine.sh/rishicds/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=rishicds)
+
