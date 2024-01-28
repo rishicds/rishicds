@@ -74,6 +74,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/rishicds/rishicds/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -91,6 +93,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=rishicds&theme=dracula&column=5&row=2&margin-w=20&margin-h=20&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
