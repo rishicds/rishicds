@@ -80,20 +80,6 @@
 
 ###
 
-<img align="right" height="120" src="https://24.media.tumblr.com/d9b351a1b1865030c3dc92884084147f/tumblr_mq3ssvJiog1rf3wd1o1_500.gif"  />
-
-###
-
-<img align="left" height="120" src="https://media1.tenor.com/m/eg9_HxtaW3kAAAAC/pokemon-pikachu.gif"  />
-
-###
-
-<div align="center">
-  <img height="120" src="https://media1.tenor.com/m/qIhgj8cLz9UAAAAC/charmander-charmander-pokemon.gif"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -113,6 +99,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishicds&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="120" src="https://24.media.tumblr.com/d9b351a1b1865030c3dc92884084147f/tumblr_mq3ssvJiog1rf3wd1o1_500.gif"  />
 
 ###
 
