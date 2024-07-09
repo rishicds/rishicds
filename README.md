@@ -83,34 +83,12 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=rishicds&theme=dracula&column=4&row=1&margin-w=20&margin-h=20&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishicds&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishicds&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+![rishicds github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=rishicds)
 
 <img align="right" height="160" src="https://24.media.tumblr.com/d9b351a1b1865030c3dc92884084147f/tumblr_mq3ssvJiog1rf3wd1o1_500.gif"  />
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rishicds&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+
 
 ###
