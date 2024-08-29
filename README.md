@@ -83,7 +83,6 @@
 
 ###
 
-![rishicds github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=rishicds)
 
 <img align="right" height="160" src="https://24.media.tumblr.com/d9b351a1b1865030c3dc92884084147f/tumblr_mq3ssvJiog1rf3wd1o1_500.gif"  />
 
