@@ -75,7 +75,7 @@
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=GhoshAditi&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=rishicds&label=PROFILE+VIEWS)
 
 ###
 
