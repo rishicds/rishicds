@@ -75,7 +75,7 @@
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=rishicds&style=flat-square)
+![](https://komarev.com/ghpvc/?username=your-github-username&label=1286)
 
 ###
 
